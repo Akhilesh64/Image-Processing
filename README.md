@@ -1,2 +1,2 @@
 # Image-Procesing
-Implementation of various image proceesing methods in python.
+Implementation of various image processing methods in python.
