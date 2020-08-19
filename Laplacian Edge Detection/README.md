@@ -8,8 +8,8 @@ An image with its result has been provided as reference.
 
 Sample Image :
 
-![Sample](https://github.com/Akhilesh64/Laplacian-Edge-Detection/blob/master/Image.jpg)
+![Sample](https://github.com/Akhilesh64/Image-Processing/blob/master/Laplacian%20Edge%20Detection/Image.jpg)
 
 Output Image : (I have used a 5x5 laplacian kernel for the image below)
 
-![Output](https://github.com/Akhilesh64/Laplacian-Edge-Detection/blob/master/Laplacian_Image.jpg)
+![Output](https://github.com/Akhilesh64/Image-Processing/blob/master/Laplacian%20Edge%20Detection/Laplacian_Image.jpg)
