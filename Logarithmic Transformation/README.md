@@ -8,12 +8,12 @@ Some images and their results have been provided as reference.
 
 Sample Images :
 
-![sample](https://github.com/Akhilesh64/Logarithmic-Transformation/blob/master/Image_1.jpg)
+![sample](https://github.com/Akhilesh64/Image-Processing/blob/master/Logarithmic%20Transformation/Image_1.jpg)
 
-![sample](https://github.com/Akhilesh64/Logarithmic-Transformation/blob/master/Image_2.jpg)
+![sample](https://github.com/Akhilesh64/Image-Processing/blob/master/Logarithmic%20Transformation/Image_2.jpg)
 
 Output Images :
 
-![Output](https://github.com/Akhilesh64/Logarithmic-Transformation/blob/master/new_image_gray.jpg)
+![Output](https://github.com/Akhilesh64/Image-Processing/blob/master/Logarithmic%20Transformation/new_image_gray.jpg)
 
-![Output](https://github.com/Akhilesh64/Logarithmic-Transformation/blob/master/new_image_color.jpg)
+![Output](https://github.com/Akhilesh64/Image-Processing/blob/master/Logarithmic%20Transformation/new_image_color.jpg)
