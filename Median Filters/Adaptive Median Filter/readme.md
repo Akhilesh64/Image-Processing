@@ -2,8 +2,8 @@ A more advanced form of Median Filter which adapts itself on the basis of its su
 
 Sample Image :
 
-![Sample](https://github.com/Akhilesh64/Median-Filters/blob/master/Adaptive%20Median%20Filter/Image_2.jpg)
+![Sample](https://github.com/Akhilesh64/Image-Processing/blob/master/Median%20Filters/Adaptive%20Median%20Filter/Image_2.jpg)
 
 Output Image :
 
-![Output](https://github.com/Akhilesh64/Median-Filters/blob/master/Adaptive%20Median%20Filter/Adaptive_Image_2.jpg)
+![Output](https://github.com/Akhilesh64/Image-Processing/blob/master/Median%20Filters/Adaptive%20Median%20Filter/Adaptive_Image_2.jpg)
