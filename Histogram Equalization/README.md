@@ -9,8 +9,8 @@ An image and its results have been provided as reference.
 
 Sample Image:
 
-![sample](https://github.com/Akhilesh64/Histogram-Equalization/blob/master/Image.jpg)
+![sample](https://github.com/Akhilesh64/Image-Processing/blob/master/Histogram%20Equalization/Image.jpg)
 
 Output Image :
 
-![Output](https://github.com/Akhilesh64/Histogram-Equalization/blob/master/new_img_color.jpg)
+![Output](https://github.com/Akhilesh64/Image-Processing/blob/master/Histogram%20Equalization/new_img_color.jpg)
